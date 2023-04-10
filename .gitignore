@@ -7,6 +7,12 @@
 clogen/data/results/
 clogen/data/checkpoints/
 
+# models
+*.pth
+
+# images
+*.png
+
 # wandb
 wandb/
 
