@@ -1,8 +1,5 @@
-<p align="center">
-  <img width="420" height="320" src="figures/dis-logo-official.png">
-</p>
-
-![dis5k-v1-sailship](figures/dis5k-v1-sailship.jpeg)
+# Background removal
+Remove background from images using segmentation.
 
 <br> 
 
